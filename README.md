@@ -1,6 +1,6 @@
-# Title
+# Exam 1
 
-Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
+Questions are inside of the [exam.pdf](./assets/exam.pdf) file.
 
 Source code is under the [src](./src/) folder
 
@@ -9,5 +9,5 @@ Source code is under the [src](./src/) folder
 Solutions can be run via:
 
 ```sh
-runner src/file
+python3 src/__init__.py
 ```
